@@ -2,7 +2,7 @@
 
 One of the small games in Unity I'm making to relearn and master Unity's fundamentals.
 
-This project is based on [Zigurous's Video on How to make Frogger in Unity](https://www.youtube.com/watch?v=GxlxZ5q__Tc)
+This project is based on [Zigurous's Youtube Video on How to make Frogger in Unity](https://www.youtube.com/watch?v=GxlxZ5q__Tc)
 
 ## 📝 My Improvements
 
